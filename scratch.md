@@ -17,4 +17,4 @@
 
 
 
-após ensinar toda essa base de lógica, explicar sobre os eixos de X,Y e fazer o jogo do ping pong
+após ensinar toda essa base de lógica, explicar sobre os eixos de X,Y e fazer o jogo do ping pong ggggggggggggg
