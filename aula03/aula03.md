@@ -5,7 +5,7 @@ Digite um número: 9
 O antecessor de 9 é 8
 O sucessor de 9 é 10
 
-2) Crie um algoritmo que leia um número real e mostre na tela o seu dobro
+2) Crie um algoritmo que leia um número inteiro e mostre na tela o seu dobro
 
 3) Crie um programa que leia o nome e o salário de um funcionário, mostrando no
     final uma mensagem.
@@ -14,7 +14,7 @@ O sucessor de 9 é 10
     Salário: 1850,45
     Maria do Carmo tem um salário de R$1850,45
 
-5) Faça um programa que leia as duas notas de um aluno em uma matéria e mostre
+4) Faça um programa que leia as duas notas de um aluno em uma matéria e mostre
     na tela a sua média na disciplina.
     Ex:
     Nota 1: 4.5
